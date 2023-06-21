@@ -20,17 +20,14 @@ Este proyecto preprocesará los datos de la siguiente manera:
 # Project Description
 This project involves preparing and presenting a report for the loan division of the bank. It will also discuss whether variables such as marital status and number of children have an impact on loan default. The initial dataframe contains some data on the creditworthiness of the clients.
 
-## General Objective
 The general objective of this work is to assist in creating a **credit score** for a potential client. The credit score will be used to evaluate the ability of a potential borrower to repay their loan.
 
-## Key Questions
 This project seeks to answer the following four questions:
 1. Is there any connection between having children and timely loan repayment?
 2. Is there a connection between marital status and timely loan repayment?
 3. Is there a connection between income level and timely loan repayment?
 4. How do different loan purposes affect timely loan repayment?
 
-## Data Preprocessing Steps
 This project will preprocess the data in the following ways:
 - Identify and handle missing and duplicate values for both categorical and quantitative variables.
 - Convert data types, such as converting strings into numbers.
