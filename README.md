@@ -17,7 +17,8 @@ Este proyecto preprocesará los datos de la siguiente manera:
 - Se clasificarán los tipos de datos.
 - Y por último, se tratará de responder las cuatro preguntas planteadas arriba con el fin de crear una puntuación de crédito.
 
-
+---------------
+# Borrower default risk analysis by Carlos Horta (carlosgim@gmail.com)
 
 ## Project Description
 This project involves preparing and presenting a report for the loan division of the bank. It will also discuss whether variables such as marital status and number of children have an impact on loan default. The initial dataframe contains some data on the creditworthiness of the clients.
