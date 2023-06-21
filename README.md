@@ -1,4 +1,4 @@
-#Análisis de riesgo de inclumpimiento de los prestatarios por Carlos Horta (carlosgim@gmail.com)
+# Análisis de riesgo de inclumpimiento de los prestatarios por Carlos Horta (carlosgim@gmail.com)
 
 ## Descripción del proyecto
 Este proyecto consiste en preparar y presentar un informe para la división de préstamos del banco. También se debatirá si las variables estado civil y número de hijos de un cliente tienen un impacto en el incumplimiento de pago de un préstamo. Dentro del dataframe inicial se encuentran algunos datos sobre la solvencia crediticia de los clientes.
